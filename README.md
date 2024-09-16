@@ -1,3 +1,1 @@
-sqlite3
-c++
-wxWidgets
+sqlite3 Conway's Game of life
